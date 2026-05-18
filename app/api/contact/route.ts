@@ -155,7 +155,7 @@ export async function POST(req: NextRequest) {
       await resend.emails.send({
         from: fromEmail,
         to: toEmail,
-        replyTo: data.email,
+        reply_to: data.email,
         subject: `New Consultation Request — ${data.name} (${data.matter})`,
         html: buildEmailHtml(data),
       });
