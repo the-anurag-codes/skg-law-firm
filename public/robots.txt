@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block data directory
+Disallow: /api/
+Disallow: /data/
+
+Sitemap: https://skgambhir.in/sitemap.xml

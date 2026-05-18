@@ -1,0 +1,21 @@
+{
+  "name": "S.K. Gambhir & Co.",
+  "short_name": "SKG Law",
+  "description": "Tax & Corporate Law — New Delhi. Established 1987.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAF7",
+  "theme_color": "#1E2A47",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
